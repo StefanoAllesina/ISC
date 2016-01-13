@@ -20,7 +20,7 @@ Click [here](https://github.com/StefanoAllesina/ISC/archive/master.zip), open th
 2. **Clone the repository**. If you have installed `git`, you can clone the repository by opening a terminal (in Linux Ubuntu press `CTRL+ALT+T`; in OSX find the `Terminal` Application in Spotlight; if you are using Windows, first install Git (instructions are [here](https://github.com/StefanoAllesina/ISC/blob/master/git/installation/install.md)), then open the `Git Bash` application), then change directory to your home, and clone the repository:
 ```
 cd ~
-clone https://github.com/StefanoAllesina/ISC.git
+git clone https://github.com/StefanoAllesina/ISC.git
 ```
 To update all the files in the repository, run:
 ```
