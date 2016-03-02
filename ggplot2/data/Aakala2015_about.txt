@@ -1,0 +1,10 @@
+Data adapted from:
+
+Aakala T, Shimatani I, Abe T, Kubota Y, Kuuluvainen T (2015) Crown asymmetry in high latitude forests: disentangling the directional effects of tree competition and solar radiation. Oikos, online in advance of print. http://dx.doi.org/10.1111/oik.02858
+
+Downloaded from Dryad Digital Repository:
+
+Aakala T, Shimatani I, Abe T, Kubota Y, Kuuluvainen T(2015) Data from: Crown asymmetry in high latitude forests: disentangling the directional effects of tree competition and solar radiation. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.6t6gp
+
+Description:
+The file contains field measurements of trees, including site (1 to 48), coordinates (x,y, in meters), tree diameter (diameter at breast height, in mm) and height, species, and crown projection area (in m2)
